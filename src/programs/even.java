@@ -15,6 +15,7 @@ public class even {
 					System.out.println(i+"is"+"not a even number");
 				}
 			}
+			System.out.println("i am te1");
 	}
 
 }
